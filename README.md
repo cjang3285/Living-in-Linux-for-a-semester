@@ -1,5 +1,5 @@
 # MyLittleServer
-Collection of Server related projects I've done with ubuntu on rasberry pi 4 B
+Collection of Server related projects I've done with Ubuntu on rasberry pi 4 B
 
 1. Remote Access using SSH server
 2. Web server installment
