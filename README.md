@@ -1,4 +1,4 @@
-# MyLittleServer
+# 리눅스 한 학기 살기 프로젝트
 Collection of Server related projects I've done with Ubuntu on rasberry pi 4 B
 
 1. Remote Access using SSH server
